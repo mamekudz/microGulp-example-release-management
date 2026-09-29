@@ -1,8 +1,8 @@
 # Release management (blog demo)
 
-Runnable reconstruction of a former team workflow around **`RELEASES.json`**: each developer keeps personal notes under `dev/releases/`, a build merges only **fresh, non-duplicate** lines into the central file, and a small **opaque translation adapter** produces an English/German history page.
+Public repository: [microGulp-example-release-management](https://github.com/mamekudz/microGulp-example-release-management). Collection: [microGulp-Examples](https://github.com/mamekudz/microGulp-Examples).
 
-This is an example under [microGulp-Examples](https://github.com/mamekudz/microGulp-Examples). 
+Runnable reconstruction of a former team workflow around **`RELEASES.json`**: each developer keeps personal notes under `dev/releases/`, a build merges only **fresh, non-duplicate** lines into the central file, and a small **opaque translation adapter** produces an English/German history page.
 
 > **Historical vs. today:** The workflow (separate author files, 30-day window, automatic release-info context, multilingual history via `i18xe-sync`) was used in an earlier company project. Those sources are gone. This example **reconstructs the behavior** on current µGulp / Gulp tooling. It does **not** claim to be the original code. The translation backend is deliberately a tiny local provider because **i18x / i18xe-sync is still in the pipeline**.
 
