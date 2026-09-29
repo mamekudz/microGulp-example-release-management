@@ -1,0 +1,36 @@
+{
+	"author": "DEV",
+	"contributions": [
+		{
+			"main": 0,
+			"minor": 9,
+			"revision": 7,
+			"date": "2026-09-21 14:22",
+			"beta": false,
+			"info": [
+				"Improved hardware reconnect handling when the control session drops.",
+				"Optimized dashboard startup time by deferring unused skin assets."
+			]
+		},
+		{
+			"main": 0,
+			"minor": 9,
+			"revision": 6,
+			"date": "2026-09-19 08:15",
+			"beta": false,
+			"info": [
+				"Fixed duplicate task entries after a workspace reload."
+			]
+		},
+		{
+			"main": 0,
+			"minor": 9,
+			"revision": 4,
+			"date": "2026-08-26 12:00",
+			"beta": false,
+			"info": [
+				"Reduced false positives in the µWatch runaway circuit breaker."
+			]
+		}
+	]
+}

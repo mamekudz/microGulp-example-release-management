@@ -1,0 +1,25 @@
+{
+	"releases": [
+		{
+			"main": 0,
+			"minor": 9,
+			"revision": 6,
+			"date": "2026-09-18 20:20",
+			"beta": false,
+			"info": [
+				"Already shipped in 0.9.6 — duplicate on purpose for merge tests.<context=\"release info\"/>",
+				"Clarified Free edition hardware exclusion in the settings panel.<context=\"release info\"/>"
+			]
+		},
+		{
+			"main": 0,
+			"minor": 9,
+			"revision": 5,
+			"date": "2026-09-15 15:46",
+			"beta": false,
+			"info": [
+				"Stabilized schedule countdown display when switching dashboard language.<context=\"release info\"/>"
+			]
+		}
+	]
+}

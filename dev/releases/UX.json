@@ -1,0 +1,45 @@
+{
+	"author": "UX",
+	"contributions": [
+		{
+			"main": 0,
+			"minor": 9,
+			"revision": 7,
+			"date": "2026-09-24 09:10",
+			"beta": false,
+			"info": [
+				"Added German translation for device settings labels."
+			]
+		},
+		{
+			"main": 0,
+			"minor": 9,
+			"revision": 7,
+			"date": "2026-09-24 09:12",
+			"beta": false,
+			"info": [
+				"Added German translation for device settings labels.<context=\"release info\"/>"
+			]
+		},
+		{
+			"main": 0,
+			"minor": 9,
+			"revision": 5,
+			"date": "2026-09-16 17:45",
+			"beta": false,
+			"info": [
+				"Stabilized schedule countdown display when switching dashboard language."
+			]
+		},
+		{
+			"main": 0,
+			"minor": 8,
+			"revision": 0,
+			"date": "2026-07-01 10:00",
+			"beta": false,
+			"info": [
+				"Legacy note from last quarter — left on purpose to demonstrate the 30-day filter."
+			]
+		}
+	]
+}

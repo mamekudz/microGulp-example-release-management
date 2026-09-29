@@ -1,0 +1,23 @@
+{
+	"name": "microgulp-example-release-management",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Blog demo: per-developer release notes → RELEASES.json merge, opaque translation adapter, localized history.",
+	"type": "module",
+	"engines": {
+		"node": ">=22"
+	},
+	"scripts": {
+		"test": "node --test tests/**/*.test.mjs",
+		"releases": "gulp MERGE_RELEASES",
+		"build": "gulp BUILD",
+		"history": "gulp SHOW_HISTORY"
+	},
+	"dependencies": {
+		"gulp-mu-gulp-api": "^0.5.0"
+	},
+	"devDependencies": {
+		"gulp": "^5.0.1"
+	},
+	"license": "MIT"
+}
